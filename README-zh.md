@@ -1,5 +1,6 @@
 # 欢迎使用 dotenv-multi 👋
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](doc)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
 [English](./README.md) | 中文文档
@@ -113,6 +114,6 @@ interface ParseError {
 * Website: http://render.ink
 * Github: [@zjcrender](https://github.com/zjcrender)
 
-## Show your support
+## 支持
 
-Give a ⭐️ if this project helped you!
+给颗小星星吧 ⭐️ 如果你觉得`dotenv-multi`还阔以的话

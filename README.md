@@ -86,10 +86,10 @@ Then we can get the corresponding environment variables in the project
 
 ## Interface
 ### LoadOptions
-|key|类型|默认值|是否必填|说明|
+|Key|Type|Default|Required|Description|
 |---|---|---|---|---|
-|dir|string|`process.cwd()`|否|存放`env`文件的目录地址|
-|mode|string|process.env.NODE_ENV|否|当前模式|
+|dir|string|`process.cwd()`|N|Directory path where `env` files are stored|
+|mode|string|process.env.NODE_ENV|N|current mode|
 
 ### Result: ParseSuccess | ParseError
 ```typescript
